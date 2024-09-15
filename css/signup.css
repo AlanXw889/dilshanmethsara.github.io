@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.login_panel{
+    background: black;
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+}
+.logintext{
+    font-family: "Poppins", sans-serif;
+    padding: 6px;
+    margin: 13px;
+    border-radius: 20px;
+    color: rgb(19, 22, 199);
+    font-size: 14px;
+    font-size: 12px;
+    position: relative;
+    left: 65px;
+    font-size: 18px;
+}
+.login_text{
+    text-align: center;
+    color: rgb(0, 204, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: bolder;
+}
+.btn_text{
+    border-radius: 18px;
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+    text-align: right;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    position: relative;
+    top: 8px;
+    left: 120px;
+    
+}
+.btn_text:hover{
+    cursor: pointer;
+    background-color: aqua;
+    margin: 5px;
+}
+.sign_up{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: aqua;
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
+.home_button{
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;;
+    font-size: 18px;
+    left: 1150px;
+    padding: 10px 20px;
+    position: absolute;
+    font-weight: bolder;
+    background-color: lightblue;
+    top: 45px;
+}
+.login_btn{
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;;
+    font-size: 18px;
+    left: 1050px;
+    padding: 10px 20px;
+    position: absolute;
+    font-weight: bolder;
+    background-color: lightblue;
+    top: 45px;
+    
+}
